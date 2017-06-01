@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2113923616EAD6AF00AFDF87"
-               BuildableName = "libCocoaSecurity.a"
-               BlueprintName = "CocoaSecurity"
+               BlueprintIdentifier = "D5CD80231EE9719F008F3D27"
+               BuildableName = "CocoaSecurity.framework"
+               BlueprintName = "CocoaSecurity iOS"
                ReferencedContainer = "container:CocoaSecurity.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,26 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "215409EB183DD72F00E4C15B"
-               BuildableName = "CocoaSecurityTests.xctest"
-               BlueprintName = "CocoaSecurityTests"
-               ReferencedContainer = "container:CocoaSecurity.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2113923616EAD6AF00AFDF87"
-            BuildableName = "libCocoaSecurity.a"
-            BlueprintName = "CocoaSecurity"
-            ReferencedContainer = "container:CocoaSecurity.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -64,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2113923616EAD6AF00AFDF87"
-            BuildableName = "libCocoaSecurity.a"
-            BlueprintName = "CocoaSecurity"
+            BlueprintIdentifier = "D5CD80231EE9719F008F3D27"
+            BuildableName = "CocoaSecurity.framework"
+            BlueprintName = "CocoaSecurity iOS"
             ReferencedContainer = "container:CocoaSecurity.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -82,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2113923616EAD6AF00AFDF87"
-            BuildableName = "libCocoaSecurity.a"
-            BlueprintName = "CocoaSecurity"
+            BlueprintIdentifier = "D5CD80231EE9719F008F3D27"
+            BuildableName = "CocoaSecurity.framework"
+            BlueprintName = "CocoaSecurity iOS"
             ReferencedContainer = "container:CocoaSecurity.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
